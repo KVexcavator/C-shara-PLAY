@@ -1,0 +1,16 @@
+/home/exc/c#/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS
+/home/exc/c#/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.deps.json
+/home/exc/c#/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.runtimeconfig.json
+/home/exc/c#/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.runtimeconfig.dev.json
+/home/exc/c#/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.dll
+/home/exc/c#/Chapter01/HelloCS/bin/Debug/net5.0/ref/HelloCS.dll
+/home/exc/c#/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.pdb
+/home/exc/c#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.csproj.AssemblyReference.cache
+/home/exc/c#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/exc/c#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.AssemblyInfoInputs.cache
+/home/exc/c#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.AssemblyInfo.cs
+/home/exc/c#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.csproj.CoreCompileInputs.cache
+/home/exc/c#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.dll
+/home/exc/c#/Chapter01/HelloCS/obj/Debug/net5.0/ref/HelloCS.dll
+/home/exc/c#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.pdb
+/home/exc/c#/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.genruntimeconfig.cache
