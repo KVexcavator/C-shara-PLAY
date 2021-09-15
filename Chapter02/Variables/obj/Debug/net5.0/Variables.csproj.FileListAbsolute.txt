@@ -1,0 +1,16 @@
+/home/exc/c#/Chapter02/Variables/bin/Debug/net5.0/Variables
+/home/exc/c#/Chapter02/Variables/bin/Debug/net5.0/Variables.deps.json
+/home/exc/c#/Chapter02/Variables/bin/Debug/net5.0/Variables.runtimeconfig.json
+/home/exc/c#/Chapter02/Variables/bin/Debug/net5.0/Variables.runtimeconfig.dev.json
+/home/exc/c#/Chapter02/Variables/bin/Debug/net5.0/Variables.dll
+/home/exc/c#/Chapter02/Variables/bin/Debug/net5.0/ref/Variables.dll
+/home/exc/c#/Chapter02/Variables/bin/Debug/net5.0/Variables.pdb
+/home/exc/c#/Chapter02/Variables/obj/Debug/net5.0/Variables.csproj.AssemblyReference.cache
+/home/exc/c#/Chapter02/Variables/obj/Debug/net5.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/exc/c#/Chapter02/Variables/obj/Debug/net5.0/Variables.AssemblyInfoInputs.cache
+/home/exc/c#/Chapter02/Variables/obj/Debug/net5.0/Variables.AssemblyInfo.cs
+/home/exc/c#/Chapter02/Variables/obj/Debug/net5.0/Variables.csproj.CoreCompileInputs.cache
+/home/exc/c#/Chapter02/Variables/obj/Debug/net5.0/Variables.dll
+/home/exc/c#/Chapter02/Variables/obj/Debug/net5.0/ref/Variables.dll
+/home/exc/c#/Chapter02/Variables/obj/Debug/net5.0/Variables.pdb
+/home/exc/c#/Chapter02/Variables/obj/Debug/net5.0/Variables.genruntimeconfig.cache

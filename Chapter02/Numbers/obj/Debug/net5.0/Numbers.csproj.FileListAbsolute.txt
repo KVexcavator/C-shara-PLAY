@@ -1,0 +1,16 @@
+/home/exc/c#/Chapter02/Numbers/bin/Debug/net5.0/Numbers
+/home/exc/c#/Chapter02/Numbers/bin/Debug/net5.0/Numbers.deps.json
+/home/exc/c#/Chapter02/Numbers/bin/Debug/net5.0/Numbers.runtimeconfig.json
+/home/exc/c#/Chapter02/Numbers/bin/Debug/net5.0/Numbers.runtimeconfig.dev.json
+/home/exc/c#/Chapter02/Numbers/bin/Debug/net5.0/Numbers.dll
+/home/exc/c#/Chapter02/Numbers/bin/Debug/net5.0/ref/Numbers.dll
+/home/exc/c#/Chapter02/Numbers/bin/Debug/net5.0/Numbers.pdb
+/home/exc/c#/Chapter02/Numbers/obj/Debug/net5.0/Numbers.csproj.AssemblyReference.cache
+/home/exc/c#/Chapter02/Numbers/obj/Debug/net5.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/exc/c#/Chapter02/Numbers/obj/Debug/net5.0/Numbers.AssemblyInfoInputs.cache
+/home/exc/c#/Chapter02/Numbers/obj/Debug/net5.0/Numbers.AssemblyInfo.cs
+/home/exc/c#/Chapter02/Numbers/obj/Debug/net5.0/Numbers.csproj.CoreCompileInputs.cache
+/home/exc/c#/Chapter02/Numbers/obj/Debug/net5.0/Numbers.dll
+/home/exc/c#/Chapter02/Numbers/obj/Debug/net5.0/ref/Numbers.dll
+/home/exc/c#/Chapter02/Numbers/obj/Debug/net5.0/Numbers.pdb
+/home/exc/c#/Chapter02/Numbers/obj/Debug/net5.0/Numbers.genruntimeconfig.cache
